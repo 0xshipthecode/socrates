@@ -1,0 +1,11 @@
+
+# local environment with sensitive data
+.env
+
+# injected symlinks
+command
+models/
+
+# output wav files
+*.wav
+
